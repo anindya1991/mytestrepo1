@@ -12,6 +12,7 @@ def extract(spark):
 def main():
 
     print("hello Danone from develop")
+    print("thank you all!!")
 
 
 if __name__ == "__main__":
